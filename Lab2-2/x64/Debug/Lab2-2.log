@@ -1,0 +1,5 @@
+﻿  Lab2-2.cpp
+C:\Users\husel\source\repos\Lab2-2\Lab2-2\Lab2-2.cpp(8,16): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\husel\source\repos\Lab2-2\Lab2-2\Lab2-2.cpp(40,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\husel\source\repos\Lab2-2\Lab2-2\Lab2-2.cpp(46,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Lab2-2.vcxproj -> C:\Users\husel\source\repos\Lab2-2\x64\Debug\Lab2-2.exe
