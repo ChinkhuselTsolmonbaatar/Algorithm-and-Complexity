@@ -1,0 +1,3 @@
+﻿  Quicksort2.cpp
+C:\Users\husel\source\repos\Quicksort2\Quicksort2\Quicksort2.cpp(74,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Quicksort2.vcxproj -> C:\Users\husel\source\repos\Quicksort2\Quicksort2\x64\Debug\Quicksort2.exe
